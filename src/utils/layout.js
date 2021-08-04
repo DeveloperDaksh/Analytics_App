@@ -5,7 +5,7 @@ module.exports = (body, favicon, styles, scripts, variables) => `
 	<html lang="en">
 		<head>
 
-			<title>Ackee</title>
+			<title>Analytics</title>
 
 			<meta charset="utf-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1">
